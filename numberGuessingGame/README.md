@@ -1,0 +1,1 @@
+This is one of the required projects to earn my certification. For this project, I was used Bash scripting, PostgreSQL, and Git to created a number guessing game that runs in the terminal and saves user information.

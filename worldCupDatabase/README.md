@@ -1,0 +1,1 @@
+This is one of the required projects to earn my certification. For this project, i was created a Bash script that enters information from World Cup games into PostgreSQL, then query the database for useful statistics.
